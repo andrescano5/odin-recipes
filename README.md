@@ -1,1 +1,2 @@
 # odin-recipes
+In this proyect i'll make a simple web inserting some basic elementes such as header, relatives and absolute links and images. Also i'll be using some git commands in order to improve my skills. I hope i can achieve my first little proyect!!
